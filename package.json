@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "chart.js": "^2.9.3",
+    "egg-cors": "^2.2.3",
+    "moment": "^2.30.1",
+    "uview-ui": "^2.0.38",
+    "vue-chartjs": "^3.5.1"
+  },
+  "name": "MiaoMiaoAccount",
+  "description": "一款基于uniapp跨端的记账软件",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev:": "vue-cli-service uni-serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennetty74/MiaoMiaoAccount.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bennetty74/MiaoMiaoAccount/issues"
+  },
+  "homepage": "https://github.com/bennetty74/MiaoMiaoAccount#readme"
+}
